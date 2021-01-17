@@ -548,8 +548,8 @@ pre-prepared, in `package.json`.
 
 > In particular we are using a 'build pipeline' tool called Gulp - we won't go
 > into any detail for how this works today, but if you're interested to learn
-> more have a look at `gulpfile.js` and my
-> [Gulp training](https://github.com/catalyst/js-build-pipelines-training)
+> more have a look at `gulpfile.js` and 
+> [Gulp website](https://gulpjs.com/)
 
 ### Transfer our existing CSS to SCSS
 
